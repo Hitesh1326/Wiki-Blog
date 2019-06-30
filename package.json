@@ -1,0 +1,21 @@
+{
+  "name": "wiki-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hitesh Shinde",
+  "license": "ISC",
+  "engines":{
+ "node":"10.16.0"
+},
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "lodash": "^4.17.11",
+    "mongoose": "^5.6.1"
+  }
+}
